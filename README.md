@@ -7,4 +7,11 @@
 
 # Usage
 
-* Start teleop: `roslaunch py_pkg teleop.launch`
+## Running Teleop
+
+Run both drivebase and arm teleop at the same time:
+
+`roslaunch py_pkg teleop.launch`
+
+run only drivebase teleop:
+
